@@ -37,3 +37,6 @@
 [submodule "burp_gwt"]
 	path = burp_gwt
 	url = https://github.com/Meatballs1/burp_gwt
+[submodule "heartbleed-burp-extension"]
+	path = heartbleed-burp-extension
+	url = https://github.com/google/heartbleed-burp-extension
